@@ -1,20 +1,30 @@
-  <img src="https://giphy.com/gifs/hello-hi-welcome-xUPGcigl4eOfc6hA5y" width="160" align="left">
-  
-<br> <h1>Hi there! I'm Nika </h1>
-<br>
-<br>
+<h1 align="center">Hi there! I'm Nika</h1>
 
-<!--
-**nikapierre/nikapierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl6ZWt5anBwOWF5bjV2NzF6NTltcHBsbWx4b2hqNDk5MDloOWxuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcigl4eOfc6hA5y/giphy.gif" width="160" align="left" alt="Welcome GIF">
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>&nbsp;&nbsp;Welcome to my page!                   \(￣︶￣*\))</h3>
+
+<br clear="left">
+
+## About me
+
+💻Data Analytical Consultant\
+🎓Chemistry with Medicinal Chemistry, University of Warwick Graduate\
+👷‍♀️Developing in SQL and Data Engineering
+
+
+## Skills
+
+- **Visualisation:** Tableau, Power BI
+- **Data prep:** Snowflake/SQL, Alteryx, Tableau Prep, Power Query
+
+## Projects
+
+- [SQL Murder Mystery](link) - How I solved the [Murder Mystery](https://mystery.knightlab.com/)
+
+## Get in touch
+
+- [LinkedIn](www.linkedin.com/in/nika-pierre-b7aa00223)
+- [Tableau Public](https://public.tableau.com/app/profile/nika.pierre/vizzes)
