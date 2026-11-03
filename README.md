@@ -1,4 +1,8 @@
-## Hi there 👋
+  <img src="https://giphy.com/gifs/hello-hi-welcome-xUPGcigl4eOfc6hA5y" width="160" align="left">
+  
+<br> <h1>Hi there! I'm Nika </h1>
+<br>
+<br>
 
 <!--
 **nikapierre/nikapierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
