@@ -24,7 +24,12 @@
 
 - [SQL Murder Mystery](link) - How I solved the [Murder Mystery](https://mystery.knightlab.com/)
 
-## Certifications
+
+## Get in touch
+
+- [LinkedIn](www.linkedin.com/in/nika-pierre-b7aa00223)
+- [Tableau Public](https://public.tableau.com/app/profile/nika.pierre/vizzes)
+
 <div align="center">
   <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=BZF+Pu4GmJSq9VinaXzucRioAqnxj+PnYMWoOHFlkbHBHImVs9D+XgcCNzdoO8xS">
     <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" width="15%">
@@ -35,7 +40,3 @@
   </div>
 <br/> 
 
-## Get in touch
-
-- [LinkedIn](www.linkedin.com/in/nika-pierre-b7aa00223)
-- [Tableau Public](https://public.tableau.com/app/profile/nika.pierre/vizzes)
