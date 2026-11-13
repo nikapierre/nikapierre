@@ -37,6 +37,9 @@
   <a href="https://www.credly.com/badges/697eec85-9c57-45db-943e-d68e6b14860e/embedded">
     <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="15%">
   </a>
+  <a href="https://credentials.getdbt.com/7bcbf413-c9eb-408d-880a-334cc4f99d74#acc.ZrH94c7v">
+    <img src="https://api.accredible.com/v1/frontend/credential_embed_image/200093802" width="15%">
+  </a>
   </div>
 <br/> 
 
