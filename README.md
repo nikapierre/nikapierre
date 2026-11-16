@@ -22,7 +22,8 @@
 
 ## Projects
 
-- [SQL Murder Mystery](link) - How I solved the [Murder Mystery](https://mystery.knightlab.com/)
+- [SQL Murder Mystery](https://github.com/nikapierre/Summer-of-SQL/tree/e347f76bb3712cd68c81a6ba2d2f138293d170d4/SQL-Murder-Mystery) - How I solved the [Murder Mystery](https://mystery.knightlab.com/)
+- [One Piece - API & Flattening JSON](https://github.com/nikapierre/One-Piece-API-Project/blob/9124159f98138e4bf7abe4291b397580833084f0/API%20Call-Flatten%20JSON)- See [Dashboard](https://public.tableau.com:9443/views/OnePiece-GrandLineBountyBoard/GrandLineBountyBoard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 
 ## Get in touch
